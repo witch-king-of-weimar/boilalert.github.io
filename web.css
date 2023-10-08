@@ -1,0 +1,9 @@
+/* This is a simple CSS file */
+
+/* Style the heading element */
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+}
