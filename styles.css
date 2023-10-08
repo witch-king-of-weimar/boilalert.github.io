@@ -1,11 +1,12 @@
 body {
 font-family: sans-serif;
 margin: 0;
+background-color: #fff;
 }
 
 header {
 text-align: center;
-padding: 1rem;
+padding: 0;
 }
 
 main {
@@ -47,7 +48,7 @@ color: #fff;
 
 footer {
 text-align: center;
-padding: 1rem;
+padding: 0;
 }
 
 @media screen and (max-width: 576px) {
@@ -56,7 +57,7 @@ font-size: 16px;
 }
 
 header {
-padding: 0.5rem;
+padding: 0;
 }
 
 main {
@@ -97,6 +98,6 @@ color: #fff;
 }
 
 footer {
-padding: 0.5rem;
+padding: 0;
 }
 }
