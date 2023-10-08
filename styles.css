@@ -91,3 +91,13 @@ td:first-child {
 td:last-child {
     border: none; /* Remove all borders for the second cell */
 }
+
+
+td:first-child {
+    border-left: 10px solid #000;
+    border-right: none; /* Remove right border for the first cell */
+}
+
+td:last-child {
+    border: none; /* Remove all borders for the second cell */
+}
