@@ -88,3 +88,13 @@ td {
 td:nth-child(2) {
     border-left: 1px solid #000; /* Add a left border to the second cell */
 }
+
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+}
+/*<div class="vl"></div>*/
