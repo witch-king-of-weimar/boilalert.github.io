@@ -34,8 +34,11 @@ nav a {
 }
 
 .hero {
-    text-align: left;
-    padding: 50px 0;
+    /*text-align: left;*/
+    /*padding: 50px 0;*/
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 .hero h1 {
