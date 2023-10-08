@@ -87,6 +87,8 @@ td:first-child {
     vertical-align: top;
     border-right: 1px solid #000;
     border-left: none; /* Remove left border for the first cell */
+    border-top:none;
+    border-bottom:none;
 }
 
 td:last-child {
