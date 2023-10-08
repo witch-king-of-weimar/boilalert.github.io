@@ -74,24 +74,17 @@ footer {
     padding: 10px 0;
 }
 
+
 table {
     border-collapse: collapse;
 }
 
 td {
-    border: 1px solid #000;
+    border: none; /* Remove all borders from all cells */
     padding: 10px;
-}
-
-td:first-child {
     vertical-align: top;
-    border-right: 1px solid #000;
-    border-left: none; /* Remove left border for the first cell */
-    border-top:none;
-    border-bottom:none;
 }
 
-td:last-child {
-    border: none; /* Remove all borders for the second cell */
+td:nth-child(2) {
+    border-left: 1px solid #000; /* Add a left border to the second cell */
 }
-
