@@ -73,3 +73,21 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+td:first-child {
+    border-left: 1px solid #000;
+    border-right: none; /* Remove right border for the first cell */
+}
+
+td:last-child {
+    border: none; /* Remove all borders for the second cell */
+}
