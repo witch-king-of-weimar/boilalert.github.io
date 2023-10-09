@@ -74,11 +74,16 @@ nav a {
 }
 
 .article p {
-    font-size: 10px;
+    font-size: 12px;
 }
 
 p {
     font-size: 10px;
+}
+
+h2 {
+    font-size: 18px;
+    
 }
 
 footer {
