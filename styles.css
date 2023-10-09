@@ -45,12 +45,12 @@ nav a {
 
 disclaimer ul {
     list-style: none;
-    text-align: right;
+    text-align: left;
 }
 
 disclaimer li {
     display: inline;
-    margin-right: 20px;
+    margin-left: 20px;
     color: black;
 }
 
