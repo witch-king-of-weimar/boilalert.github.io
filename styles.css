@@ -55,7 +55,7 @@ nav a {
 }
 
 .hero p {
-    font-size: 12x;
+    font-size: 10x;
 }
 
 .content {
@@ -69,11 +69,11 @@ nav a {
 }
 
 .article h2 {
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .article p {
-    font-size: 12px;
+    font-size: 10px;
 }
 
 footer {
