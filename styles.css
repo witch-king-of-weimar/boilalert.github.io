@@ -122,7 +122,7 @@ td.fixed-width {
     padding: 10px;
     vertical-align: top;
     width: 190px; /* Adjust the fixed width as needed */
-   white-space: nowrap;
+   white-space: break-space;
     /* Prevent text from wrapping in the fixed-width cell */ 
     overflow: visible; /* Hide overflow content in the fixed-width cell */
 }
