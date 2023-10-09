@@ -28,7 +28,7 @@ header {
 
 nav ul {
     list-style: none;
-    text-align: center;
+    text-align: right;
 }
 
 nav li {
@@ -87,7 +87,7 @@ h2 {
 }
 
 footer {
-    background-color: red;
+    background-color: pink;
     color: #fff;
     text-align: center;
     padding: 10px 0;
