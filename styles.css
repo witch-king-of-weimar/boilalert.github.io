@@ -79,7 +79,7 @@ nav a {
 .content {
   /* max-width: 1000px; */
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px;
 }
 
 .article {
@@ -121,8 +121,8 @@ td.fixed-width {
     border: none; /* Remove all borders from all cells */
     padding: 10px;
     vertical-align: top;
-    width: 180px; /* Adjust the fixed width as needed */
-    white-space: nowrap; /* Prevent text from wrapping in the fixed-width cell */
+    width: 200px; /* Adjust the fixed width as needed */
+    white-space: break-space; /* Prevent text from wrapping in the fixed-width cell */
     overflow: hidden; /* Hide overflow content in the fixed-width cell */
 }
 
