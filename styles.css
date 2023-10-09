@@ -43,18 +43,18 @@ nav a {
     font-size: 10px;
 }
 
-disclaimer ul {
+.endnav ul {
     list-style: none;
     text-align: left;
 }
 
-disclaimer li {
+.endnav li {
     display: inline;
     margin-left: 20px;
     color: black;
 }
 
-disclaimer a {
+.endnav a {
     text-decoration: none;
     color: #000;
     font-size: 10px;
