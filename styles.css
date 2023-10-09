@@ -20,8 +20,8 @@ body {
 
 header {
     /*background-color: #222; */
-    background-color: #ffffff;
-    color: #000;
+    background-color: #f5f5f5;
+    color: #fff;
     padding: 10px 0;
 }
 
@@ -33,6 +33,7 @@ nav ul {
 nav li {
     display: inline;
     margin-right: 20px;
+    font-color: "black';
 }
 
 nav a {
