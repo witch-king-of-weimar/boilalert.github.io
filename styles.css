@@ -51,7 +51,7 @@ nav a {
 }
 
 .hero h1 {
-    font-size: 36px;
+    font-size: 30px;
 }
 
 .hero p {
@@ -59,7 +59,7 @@ nav a {
 }
 
 .content {
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 20px;
 }
@@ -69,11 +69,11 @@ nav a {
 }
 
 .article h2 {
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .article p {
-    font-size: 16px;
+    font-size: 12px;
 }
 
 footer {
@@ -94,7 +94,7 @@ td.fixed-width {
     border: none; /* Remove all borders from all cells */
     padding: 10px;
     vertical-align: top;
-    width: 20px; /* Adjust the fixed width as needed */
+    width: 100px; /* Adjust the fixed width as needed */
     white-space: nowrap; /* Prevent text from wrapping in the fixed-width cell */
     overflow: hidden; /* Hide overflow content in the fixed-width cell */
 }
