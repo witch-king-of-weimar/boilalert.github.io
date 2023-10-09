@@ -43,6 +43,23 @@ nav a {
     font-size: 10px;
 }
 
+disclaimer ul {
+    list-style: none;
+    text-align: right;
+}
+
+disclaimer li {
+    display: inline;
+    margin-right: 20px;
+    color: black;
+}
+
+disclaimer a {
+    text-decoration: none;
+    color: #000;
+    font-size: 10px;
+}
+
 .hero {
     /*text-align: left;*/
     /*padding: 50px 0;*/
