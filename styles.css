@@ -94,7 +94,7 @@ td.fixed-width {
     border: none; /* Remove all borders from all cells */
     padding: 10px;
     vertical-align: top;
-    width: 200px; /* Adjust the fixed width as needed */
+    width: 100px; /* Adjust the fixed width as needed */
     white-space: nowrap; /* Prevent text from wrapping in the fixed-width cell */
     overflow: hidden; /* Hide overflow content in the fixed-width cell */
 }
