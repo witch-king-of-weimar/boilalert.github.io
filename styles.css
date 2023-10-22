@@ -24,6 +24,7 @@ header {
     color: black;
     padding: 10px 0;
     text-align: right;
+    align-items:right;
 }
 
 nav ul {
